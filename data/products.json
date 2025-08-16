@@ -1,0 +1,14 @@
+{
+  "products": [],
+  "categories": [
+    "led",
+    "audio",
+    "tools",
+    "decoration",
+    "other"
+  ],
+  "config": {
+    "version": "1.0.0",
+    "lastUpdate": "2025-08-16T23:38:31.517Z"
+  }
+}
