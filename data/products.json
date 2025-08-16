@@ -7,11 +7,11 @@
       "stock": 0,
       "category": "decoration",
       "availableIn": "1",
-      "description": "Lampe projecteur créant une ambiance coucher de soleil parfaite pour vos photos",
+      "description": "Lampe projecteur crÃ©ant une ambiance coucher de soleil parfaite pour vos photos",
       "features": [
         "    16 couleurs disponibles",
-        "    Télécommande incluse",
-        "    Rotation 180°",
+        "    TÃ©lÃ©commande incluse",
+        "    Rotation 180Â°",
         "    Alimentation USB",
         "    Parfait pour Instagram/TikTok"
       ],
@@ -20,7 +20,8 @@
         "https://raw.githubusercontent.com/inconu28/fastshop-data/main/images/product-1755387767084-photo_6_2025-08-13_16-47-27.jpg"
       ],
       "views": 0,
-      "dateCreated": "2025-08-16T23:43:04.630Z"
+      "dateCreated": "2025-08-16T23:47:08.729Z",
+      "dateModified": "2025-08-16T23:47:08.729Z"
     }
   ],
   "categories": [
@@ -32,7 +33,7 @@
   ],
   "config": {
     "version": "1.0.0",
-    "lastUpdate": "2025-08-16T23:43:04.633Z",
+    "lastUpdate": "2025-08-16T23:47:08.732Z",
     "totalProducts": 1
   }
 }
